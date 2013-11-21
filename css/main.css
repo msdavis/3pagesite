@@ -14,20 +14,38 @@ html	{
 .subtitle {
 	float: left;
 	position: relative;
-	top: 4.5em;
-	left: 1em;
-	font-family: helvetica;
+	top: 1.5em;
+	left: .8em;
+	font-family: 'Satisfy', cursive;
 	font-weight: bold;
-	font-style: italic;
-	font-size: 1.5em;
+	font-size: 1.75em;
 	color: #603813;
 }
 
 #top_nav {
-	
+	clear: both;
+	position: relative;
+	left: 26em;
+	bottom: 3.75em;
+	height: 2.45em;
+	width: 33em;
+	background-color: #603813;
+	border:3px solid;
+	border-color: #FCEE21;
+	border-radius:15px;
 }
 
-	
+.btn {
+	position: relative;
+	bottom: -.5em;
+	left: 23em;
+	color: #FCEE21;
+}	
 
+.btn_1 {
+	margin-right: 1em;
+}	
 
+.btn_2 {	
+}
 
