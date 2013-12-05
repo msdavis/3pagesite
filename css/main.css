@@ -1,7 +1,7 @@
 
 html	{
 	height: 125%;
-	background-color: #CC9966;
+	background-color: #FFFFCC;
 
 }
 
@@ -43,9 +43,9 @@ h2 {
 	bottom: 3.75em;
 	height: 2.45em;
 	width: 33em;
-	background-color: #603813;
+	background-color: #FCEE21;
 	border:3px solid;
-	border-color: #FCEE21;
+	border-color: #603813;
 	border-radius:15px;
 }
 
@@ -53,7 +53,7 @@ h2 {
 	position: relative;
 	bottom: -.55em;
 	left: 22em;
-	color: #FCEE21;
+	color: #603813;
 }	
 
 .para_content{
@@ -84,6 +84,8 @@ h2 {
 
 .btn_1 {
 	margin-right: 1em;
+	color: #603813;
+
 }
 
 .feature_headline {
@@ -97,7 +99,7 @@ h2 {
 	bottom: 5em;
 	margin: 2em 1em;
 	border:2px solid;
-	border-color: #FCEE21;
+	border-color: #603813;
 	border-radius:15px;
 }
 
@@ -109,7 +111,7 @@ h2 {
 	bottom: 5em;
 	margin: 2em 1em;
 	border:2px solid;
-	border-color: #FCEE21;
+	border-color: #603813;
 	border-radius:15px;
 }
 
@@ -121,7 +123,7 @@ h2 {
 	bottom: 5em;
 	margin: 2em 1em;
 	border:2px solid;
-	border-color: #FCEE21;
+	border-color: #603813;
 	border-radius:15px;
 }
 
@@ -142,7 +144,7 @@ h2 {
 	bottom: 5em;
 	margin: 2em 1em;
 	border:2px solid;
-	border-color: #FCEE21;
+	border-color: #603813;
 	border-radius:15px;
 }
 
@@ -161,6 +163,7 @@ h2 {
 	bottom: -8em;
 	left: 35em;
 	vertical-align: middle;
+	color: #603813;
 }
 
 .para_content_contact {
